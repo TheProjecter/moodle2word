@@ -1,0 +1,1 @@
+Una pequeña aplicación a medida para convertir informes generados por moodle a word (docx). Desarrollado para la oficina de practicas externas de la ETSI Sistemas Informaticos de la UPM.
